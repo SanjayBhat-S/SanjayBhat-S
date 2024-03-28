@@ -1,14 +1,14 @@
-## Hi 👋, I'm Sanjay. 
+#### Hi 👋, I'm Sanjay. 
 
-### A self-taught *Junior Data Scientist*.
+###### A self-taught *Junior Data Scientist*.
 
 
-## About Me. 
+#### About Me. 
 
-### **Location:** Croydon, UK.
-### **Tech Skills:** Python| SQL| MS Excel| Django| Flask| GitHub | AWS.
-### **Email:** s.sanjaybhat@gmail.com
-### **LinkedIn:** www.linkedin.com/in/sanjaybhat16/
+###### **Location:** Croydon, UK.
+###### **Tech Skills:** Python| SQL| MS Excel| Django| Flask| GitHub | AWS.
+###### **Email:** s.sanjaybhat@gmail.com
+###### **LinkedIn:** www.linkedin.com/in/sanjaybhat16/
 
 
 
