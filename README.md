@@ -1,7 +1,7 @@
 
 <p align="center"><img img width="80%" src="https://github.com/SanjayBhat-S/SanjayBhat-S/blob/main/readme_header.png" /></p> 
 
-A self-taught *Junior Data Scientist*.
+A self-taught *Data Scientist* from India.
 
 
 **About me**
