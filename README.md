@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/SanjayBhat-S/SanjayBhat-S/blob/main/Tittle.png" />
+  <img src="https://github.com/SanjayBhat-S/SanjayBhat-S/blob/main/tittle_file.png" />
 </p> 
 
 
