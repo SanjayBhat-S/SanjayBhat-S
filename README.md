@@ -1,7 +1,8 @@
 
-#### Hi 👋, I'm Sanjay. 
+<p align="center">
+  <img src="https://github.com/SanjayBhat-S/SanjayBhat-S/blob/main/Tittle.png" />
+</p> 
 
-![Hi, I am Sanjay](https://assets/images/Tittle.png)
 
 A self-taught *Junior Data Scientist*.
 
