@@ -1,5 +1,5 @@
 
-<p align="center"><img img width="80%" src="https://github.com/SanjayBhat-S/SanjayBhat-S/blob/main/tittle_file.png" /></p> 
+<p align="center"><img img width="80%" src="https://github.com/SanjayBhat-S/SanjayBhat-S/blob/main/readme_header.png" /></p> 
 
 A self-taught *Junior Data Scientist*.
 
