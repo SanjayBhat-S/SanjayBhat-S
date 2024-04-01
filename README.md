@@ -1,6 +1,8 @@
 
 #### Hi 👋, I'm Sanjay. 
 
+![Hi, I am Sanjay](https://assets/images/Tittle.png)
+
 A self-taught *Junior Data Scientist*.
 
 
