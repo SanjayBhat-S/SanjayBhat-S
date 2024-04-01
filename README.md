@@ -10,7 +10,7 @@
 ###### **Email:** s.sanjaybhat@gmail.com
 ###### **LinkedIn:** www.linkedin.com/in/sanjaybhat16/
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayBhat-S&hide_progress=true&theme=transparent)
 
 
 <!--
